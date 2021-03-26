@@ -12,7 +12,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Usage
 The finished product was required to look like this:
 
-![Screen shot of finished webpage showing the header with menu items "Search Engine Optimization", "Online Reputation Manaement", and "Social Media Marketing".  THe page also has a photo of four people in a marketing meeting as well as descriptions of the various services they offer.](assets/images/screenshot.png)
+![Screen shot of finished webpage showing the header with menu items "Search Engine Optimization", "Online Reputation Manaement", and "Social Media Marketing".  The page also has a photo of four people in a marketing meeting as well as descriptions of the various services they offer.](assets/images/screenshot.png)
 
 ## Credits
 README.md format courtesy of https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
