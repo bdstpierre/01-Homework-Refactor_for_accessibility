@@ -1,13 +1,13 @@
 # 01 Homework Refractor for Accessibility
 ## Description
-It is important to format webpages so they are accessible for people with disabilities.  One thing that web developers can do to help the amke our pages more accessible is to use the new divisional elements instead of `div`, make sure we have good descriptions in are `alt` attributes and the HTML code structure follows a logical progression.
+It is important to format webpages so they are accessible for people with disabilities.  One thing that web developers can do to help make our pages more accessible is to use the new semantic divisional elements instead of `div`, make sure we have good descriptions in our `alt` attributes and the HTML code structure follows a logical progression.
 
-The subject websiteis a marketing website for a company that does search engine optimization, online reputation management and social media marketing.
+The subject website is a marketing website for a company that does search engine optimization, online reputation management and social media marketing.
 
 THeir current website lacks semantic HTML elements, logical structure, accessible alt attributes, heading attributes that do not fall in sequential order, nor a concise descriptive title.  Correcting these issue will make the website more accessible for users who rely on screen readers and other assistive devices.
 
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+This project is just a simple one-page website with accompanying assests of a stle.css file and some image files.  It should work fine if you copy all the files and file structure to your server.
 
 ## Usage
 The finished product was required to look like this:
