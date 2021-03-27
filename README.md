@@ -14,7 +14,7 @@ THeir current website lacks semantic HTML elements, logical structure, accessibl
 - [x] concise, descriptive title
 
 ## Installation
-This project is just a simple one-page website with accompanying assests of a stle.css file and some image files.  It should work fine if you copy all the files and file structure to your server.
+This project is just a simple one-page website with accompanying assests of a style.css file and some image files.  It should work fine if you copy all the files and file structure to your server.
 
 ## Usage
 The finished product was required to look like this:
