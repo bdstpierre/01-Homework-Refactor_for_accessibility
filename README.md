@@ -6,6 +6,13 @@ The subject website is a marketing website for a company that does search engine
 
 THeir current website lacks semantic HTML elements, logical structure, accessible alt attributes, heading attributes that do not fall in sequential order, nor a concise descriptive title.  Correcting these issue will make the website more accessible for users who rely on screen readers and other assistive devices.
 
+# To Do
+- [x] semantic HTML elements
+- [ ] elements follow a logical structure independent of styling and positioning
+- [x] accessible alt attributes
+- [ ] heading attributes fall in sequential order
+- [x] concise, descriptive title
+
 ## Installation
 This project is just a simple one-page website with accompanying assests of a stle.css file and some image files.  It should work fine if you copy all the files and file structure to your server.
 
