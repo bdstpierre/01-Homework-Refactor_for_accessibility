@@ -8,9 +8,9 @@ THeir current website lacks semantic HTML elements, logical structure, accessibl
 
 # To Do
 - [x] semantic HTML elements
-- [ ] elements follow a logical structure independent of styling and positioning
+- [x] elements follow a logical structure independent of styling and positioning
 - [x] accessible alt attributes
-- [ ] heading attributes fall in sequential order
+- [x] heading attributes fall in sequential order
 - [x] concise, descriptive title
 
 ## Installation
