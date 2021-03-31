@@ -4,7 +4,7 @@ It is important to format webpages so they are accessible for people with disabi
 
 The subject website is a marketing website for a company that does search engine optimization, online reputation management and social media marketing.
 
-THeir current website lacks semantic HTML elements, logical structure, accessible alt attributes, heading attributes that do not fall in sequential order, nor a concise descriptive title.  Correcting these issue will make the website more accessible for users who rely on screen readers and other assistive devices.
+Their current website lacks semantic HTML elements, logical structure, accessible alt attributes, heading attributes that do not fall in sequential order, nor a concise descriptive title.  Correcting these issue will make the website more accessible for users who rely on screen readers and other assistive devices.
 
 # To Do
 - [x] semantic HTML elements
