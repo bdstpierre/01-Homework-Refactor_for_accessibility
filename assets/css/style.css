@@ -17,6 +17,7 @@ header {
     color: #ffffff;
 }
 
+/* Display header on one line */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -34,10 +35,12 @@ header div {
     font-size: 20px;
 }
 
+/* remove bullets from list */
 header div ul {
     list-style-type: none;
 }
 
+/* Display list items on one line in the header */
 header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -61,12 +64,14 @@ p {
     background-position: center;
 }
 
+/* Display the main section to the left */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Display the aside to the right */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -90,16 +95,19 @@ footer h2 {
 }
 
 /* Class Selectors */
+/* Float the images witht eh class of .float-left to the left of the block  */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Float the images witht eh class of .float-right to the right of the block  */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Style the items in the aside */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -116,6 +124,7 @@ footer h2 {
     max-width: 150px;
 }
 
+/* Style the items in the main content */
 .offering {
     margin-bottom: 20px;
     padding: 50px;
